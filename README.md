@@ -14,3 +14,4 @@ Image size is fixed to 640x640.
 If you wish to extend the function of this program, feel free to do it
 for only your personal use.
 
+OpenCV 2.4 is required.
